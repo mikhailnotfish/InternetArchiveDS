@@ -61,9 +61,9 @@ On this page click the green **Code** button, choose **Download ZIP**, and extra
 
 The project only builds with an old devkitPro (devkitARM release 45). Newer versions won't work, see "How I did it". I made a ready-to-use package so you don't have to hunt for old libraries:
 
-**Download: [DOWNLOAD LINK COMING SOON]**
+**Download: https://github.com/mikhailnotfish/InternetArchiveDS/releases/tag/v1.1**
 
-Extract it into the **root of your C: drive**, so that the folder `C:\devkitPro` exists. It includes MSYS2, which you'll use to build in step 9.
+Extract "devkitpro.zip" it into the **root of your C: drive**, so that the folder `C:\devkitPro` exists. It includes MSYS2, which you'll use to build in step 9.
 
 ### Step 3: Set up Wi-Fi the DS can use
 
